@@ -1,0 +1,5 @@
+Acesta este rezultat async 
+My first text file, My second txt file
+Acesta este rezultat async 
+My first text file, 
+My second txt fileAcesta este rezultat async My first text file, My second txt file
